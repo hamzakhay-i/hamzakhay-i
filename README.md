@@ -8,7 +8,7 @@ I design and develop modern web and mobile applications, focusing on clean code,
   <a href="https://linkedin.com/in/hamza-khayi-157401336">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hamzakhayi2007@gmail.com">
+  <a href="mailto:hamzakhayi336@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -70,29 +70,6 @@ I design and develop modern web and mobile applications, focusing on clean code,
 - Database Design and Management
 - REST API Development
 
----
-
-## Featured Projects
-
-### Customer Complaint Management System
-
-A web application designed to centralize customer complaints, manage their processing, and provide secure role-based access.
-
-**Technologies:** Angular, Node.js, Express.js, PostgreSQL, JWT
-
-### EduLib — Library Management System
-
-A web-based library management platform featuring book loan management, secure authentication, and an interactive statistical dashboard.
-
-**Technologies:** PHP, MySQL, AJAX, Chart.js
-
-### Lost&Found — Campus Application
-
-A cross-platform mobile application for reporting lost and found items, with messaging and moderation features.
-
-**Technologies:** Flutter, Dart
-
----
 
 ## GitHub Statistics
 
@@ -112,7 +89,7 @@ A cross-platform mobile application for reporting lost and found items, with mes
 I am interested in collaborating on software projects, learning new technologies, and building useful digital solutions.
 
 - **LinkedIn:** [Hamza KHAYI](https://linkedin.com/in/hamza-khayi-157401336)
-- **Email:** [hamzakhayi2007@gmail.com](mailto:hamzakhayi2007@gmail.com)
+- **Email:** [hamzakhayi336@gmail.com](mailto:hamzakhayi336@gmail.com)
 
 <p align="center">
   <i>Building reliable software. Learning continuously. Improving every day.</i>
