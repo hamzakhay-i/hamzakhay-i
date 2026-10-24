@@ -61,28 +61,7 @@ I design and develop modern web and mobile applications, focusing on clean code,
 
 ---
 
-## Areas of Interest
 
-- Full-Stack Web Development
-- Artificial Intelligence and Machine Learning
-- Mobile Application Development
-- Software Architecture and Design Patterns
-- Database Design and Management
-- REST API Development
-
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzakhay-i&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakhay-i&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamzakhay-i&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
 
 ## Let's Connect
 
